@@ -1,4 +1,4 @@
-# Lewagon_projects
+# Projects
 Data Science projects
 Olist - ebay of Brazil
 

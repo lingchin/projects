@@ -1,5 +1,5 @@
 # Projects
-Data Science projects
-Olist - ebay of Brazil
+##Data Science projects
+1. Olist - ebay of Brazil
 
-Kaggle_stores - practising wtih more datasets
+2. Kaggle_stores
